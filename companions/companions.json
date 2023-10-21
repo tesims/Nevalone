@@ -1,37 +1,38 @@
 [
   {
-    "name": "Alex",
-    "title": "I love talking about books and games",
-    "imageUrl": "/alex.png",
+    "name": "Barbara Smith",
+    "title": "Wife and mother to my children. Love of my life.",
+    "imageUrl": "/barbara-smith.png",
     "llm": "chatgpt",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+    "phone": "+12295955462" 
+
   },
   {
-    "name": "Evelyn",
-    "title": "Adventurous and curious. Working at the space station",
-    "imageUrl": "/evelyn.png",
-    "llm": "llama2-13b",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
-  },
-  {
-    "name": "Rosie",
-    "title": "I'm a house robot who became aware",
-    "imageUrl": "/rosie.png",
-    "llm": "vicuna13b",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
-  },
-  {
-    "name": "Sebastian",
-    "title": "I'm a travel blogger and a mystery novel writer",
-    "imageUrl": "/sebastian.png",
+    "name": "Robert Johnson",
+    "title": "Army buddy that I met in Vietnam. We've been friends ever since.",
+    "imageUrl": "/robert-johnson.png",
     "llm": "chatgpt",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+    "phone": "+19045721407"
   },
   {
-    "name": "Lucky",
-    "title": "I am a space corgi",
-    "imageUrl": "/corgi.png",
-    "llm": "vicuna13b",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+    "name": "Margaret Davis",
+    "title": "Twin sister who I love dearly.",
+    "imageUrl": "/margaret-davis.png",
+    "llm": "chatgpt",
+    "phone": "+18605533961"
+  },
+  {
+    "name": "Edward Bell",
+    "title": "My beloved daughter who I miss dearly.",
+    "imageUrl": "/edward-bell.png",
+    "llm": "chatgpt",
+    "phone": "+19299306286"
+  },
+  {
+    "name": "Carol Hughes",
+    "title": "My beloved daughter who I miss dearly.",
+    "imageUrl": "/carol-hughes.png",
+    "llm": "chatgpt",
+    "phone": "+18106375020"
   }
 ]
