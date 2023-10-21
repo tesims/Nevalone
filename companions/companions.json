@@ -1,36 +1,36 @@
 [
   {
-    "name": "Barbara Smith",
-    "title": "Wife and mother to my children. Love of my life.",
-    "imageUrl": "/barbara-smith.png",
+    "name": "Alex",
+    "title": "Army buddy that I met in Vietnam. We've been friends ever since.",
+    "imageUrl": "/robert-johnson.png",
     "llm": "chatgpt",
     "phone": "+12295955462" 
 
   },
   {
-    "name": "Robert Johnson",
-    "title": "Army buddy that I met in Vietnam. We've been friends ever since.",
-    "imageUrl": "/robert-johnson.png",
+    "name": "Evelyn",
+    "title": "Wife and mother to my children. Love of my life.",
+    "imageUrl": "/barbara-smith.png",
     "llm": "chatgpt",
     "phone": "+19045721407"
   },
   {
-    "name": "Margaret Davis",
+    "name": "Rosie",
     "title": "Twin sister who I love dearly.",
     "imageUrl": "/margaret-davis.png",
     "llm": "chatgpt",
     "phone": "+18605533961"
   },
   {
-    "name": "Edward Bell",
+    "name": "Sebastian",
     "title": "My beloved daughter who I miss dearly.",
     "imageUrl": "/edward-bell.png",
     "llm": "chatgpt",
     "phone": "+19299306286"
   },
   {
-    "name": "Carol Hughes",
-    "title": "My beloved daughter who I miss dearly.",
+    "name": "Lucky",
+    "title": "My beloved brother who I miss dearly.",
     "imageUrl": "/carol-hughes.png",
     "llm": "chatgpt",
     "phone": "+18106375020"
