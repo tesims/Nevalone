@@ -151,3 +151,35 @@ export async function POST(req: Request) {
   }
   return new StreamingTextResponse(stream);
 }
+  // Code to send input to the front end and retrieve the response
+  const sendInputAndGetResponse = async (input: string) => {
+    // Make a request to the front end API
+    const response = await fetch("/api/front-end", {
+      method: "POST",
+      body: JSON.stringify({
+        input: input,
+      }),
+      headers: {
+        "Content-Type": "application/json",
+      },
+    });
+  
+    // Parse the response as JSON
+    const data = await response.json();
+  
+    // Return the response data
+    return data.response;
+  };
+
+
+
+  // To run/test this code, you need to:
+  // 1. Make sure the front-end API is running and accessible at "/api/front-end".
+  // 2. Replace the example input with your desired input.
+  // 3. Attach this code to the backend where you want to send the input and retrieve the response.
+  // 4. Run the backend code and check the console output for the response from the front-end API.
+
+
+
+
+
