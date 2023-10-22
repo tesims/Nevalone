@@ -5,7 +5,7 @@ import Link from "next/link";
 const navigation = [
   {
     name: "Go to Github",
-href: "https://github.com/tesims/hackharvard",
+    href: "https://github.com/tesims/hackharvard",
     current: false,
   },
 ];
@@ -22,7 +22,7 @@ export default function Navbar() {
         <div className="relative flex h-16 items-center justify-between">
           <div className="flex flex-1 items-center justify-start">
             <div className="flex flex-shrink-0 items-center">
-              
+
             </div>
             <div className="ml-6">
               <div className="flex space-x-2 sm:space-x-4">
@@ -42,7 +42,7 @@ export default function Navbar() {
                   </a>
                 ))}
                 <div className="px-3 py-2 text-gray-300">
-                
+
                 </div>
               </div>
             </div>
